@@ -1,0 +1,326 @@
+Manufacturer,Model Name,Category,Screen Size,Screen,CPU,RAM, Storage,GPU,Operating System,Operating System Version,Weight,Price
+HP,15-bs053od (i7-7500U/6GB/1TB/W10),Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,6GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.04kg,5148468
+Asus,Rog GL753VE-DS74,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.99kg,15552108
+Dell,Inspiron 7579,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,512GB SSD,Intel HD Graphics 620,Windows,10,2.19kg,11550708
+Toshiba,Portege Z30-C-1CV,Notebook,"13.3""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,7,1.2kg,10625940
+Lenovo,IdeaPad 320-15ABR,Notebook,"15.6""",Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6GB,256GB SSD,AMD Radeon 530,Windows,10,2.2kg,4881708
+Fujitsu,LifeBook A556,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Intel HD Graphics 520,Windows,10,2.3kg,5770908
+Toshiba,Tecra A40-C-1KF,Notebook,"14.0""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,1.75kg,8136180
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,AMD Radeon R5 M430,Windows,10,2.25kg,5326308
+HP,Probook 450,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.04kg,7166952
+Lenovo,Legion Y520-15IKBN,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.5kg,10572588
+Dell,Inspiron 5567,Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,AMD Radeon R7 M445,Windows,10,2.36kg,6660108
+Dell,Latitude 5480,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Intel HD Graphics 620 ,Windows,10,1.6kg,9950148
+HP,EliteBook Folio,Netbook,"12.5""",Full HD 1920x1080,Intel Core M 6Y75 1.2GHz,8GB,512GB SSD,Intel HD Graphics 515,Windows,10,0.97kg,16965936
+HP,15-bs005nv (i3-6006U/4GB/1TB,Notebook,"15.6""",Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128GB SSD +  1TB HDD,AMD Radeon 520,Windows,10,2.1kg,4437108
+Lenovo,V110-15IAP (N3350/4GB/128GB/No,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,128GB SSD,Intel HD Graphics 500,No OS,,1.9kg,2406353.04
+Lenovo,ThinkPad T560,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,2.3kg,11995308
+Dell,Inspiron 5378,2 in 1 Convertible,"13.3""",Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.68kg,7904988
+Asus,ZenBook UX310UA-FB485T,Notebook,"13.3""",Quad HD+ 3200x1800,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.4kg,10225800
+HP,Spectre 13-V111dx,Ultrabook,"13.3""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.11kg,11995308
+Acer,Aspire ES1-533,Notebook,"15.6""",1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,500GB HDD,Intel HD Graphics 505,Windows,10,2.4kg,3378960
+Asus,Rog GL553VE-DS74,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.5kg,15996708
+HP,EliteBook 840,Ultrabook,"14.0""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Intel HD Graphics 620,Windows,10,1.48kg,18575388
+Acer,Nitro 5,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.7kg,11203920
+HP,ENVY -,Notebook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.34kg,10572588
+Dell,Vostro 3568,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Intel HD Graphics 620,Windows,10,2.18kg,4863924
+HP,Probook 440,Notebook,"14.0""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.64kg,6926868
+Toshiba,Portege Z30-C-16H,Notebook,"13.3""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,1.2kg,10625940
+HP,EliteBook 840,Notebook,"14.0""",1366x768,Intel Core i5 6300U 2.4GHz,4GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.48kg,9781111.08
+HP,ProBook 640,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.95kg,10714860
+HP,EliteBook 1040,Ultrabook,"14.0""",Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.43kg,12884508
+HP,ProBook 440,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Nvidia GeForce 930MX,Windows,10,1.64kg,9330019.92
+HP,Probook 440,Notebook,"14.0""",1366x768,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.64kg,6082128
+Dell,Inspiron 7567,Gaming,"15.6""",Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1TB Hybrid,Nvidia GeForce GTX 1050,Windows,10,2.65kg,8438508
+HP,EliteBook 820,Ultrabook,"12.5""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.26kg,13684788
+HP,Elitebook 840,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.48kg,14138280
+HP,EliteBook 840,Ultrabook,"14.0""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.54kg,16781071.32
+HP,Probook 430,Notebook,"13.3""",1366x768,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.49kg,7113600
+Toshiba,Portege A30-C-1CZ,Notebook,"13.3""",1366x768,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.5kg,10759320
+HP,ProBook 450,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.04kg,6846751.08
+Lenovo,ThinkPad P70,Notebook,"17.3""",IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6820HQ 2.7GHz,16GB,512GB SSD,Nvidia Quadro 3000M,Windows,7,2.4kg,26391456
+Toshiba,Tecra Z40-C-12Z,Notebook,"14.0""",IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.47kg,13249080
+HP,EliteBook 1040,Notebook,"14.0""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.43kg,19820268
+Dell,Inspiron 5568,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 6100U 2.3GHz,4GB,1TB HDD,Intel HD Graphics 520,Windows,10,2.08kg,7077943.08
+Toshiba,Portégé Z30-C-16K,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.2kg,14138280
+HP,Spectre 13-V100nv,Notebook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.11kg,10216908
+HP,ProBook 440,Notebook,"14.0""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce 930MX,Windows,10,1.64kg,10540843.56
+Dell,Latitude E5570,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.09kg,9304944.48
+HP,Elitebook 820,Ultrabook,"12.5""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.26kg,13862628
+HP,ProBook 650,Notebook,"14.0""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,2.31kg,10572588
+HP,ProBook 640,Notebook,"14.0""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.95kg,9425520
+Dell,XPS 13,Ultrabook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.29kg,14440608
+HP,Probook 470,Notebook,"17.3""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Nvidia GeForce 930MX,Windows,10,2.63kg,9603360
+HP,ProBook 440,Notebook,"14.0""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.64kg,8651916
+Acer,Aspire 3,Notebook,"15.6""",1366x768,AMD A9-Series 9420 3GHz,6GB,1TB HDD,AMD Radeon R5,Windows,10,2.1kg,3636828
+MSI,GL72M 7RDX,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.7kg,10597485.6
+HP,Probook 640,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.95kg,10625940
+HP,EliteBook 850,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.84kg,10928179.08
+HP,EliteBook 820,Ultrabook,"12.5""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.26kg,11995308
+HP,ProBook 450,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,2.04kg,6597864
+Toshiba,Tecra Z40-C-136,Ultrabook,"14.0""",IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.47kg,15338700
+Dell,Latitude E5570,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,2.09kg,9451751.4
+HP,ProBook 440,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.64kg,8985454.92
+Lenovo,Yoga 500-15ISK,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,7531524
+Vero,V142 (X5-Z8350/2GB/32GB/W10),Notebook,"14.0""",1366x768,Intel Atom X5-Z8350 1.44GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.45kg,1874433.6
+Toshiba,Tecra A50-C-218,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,256GB SSD,Nvidia GeForce 930M,Windows,10,2.4kg,12671100
+Lenovo,Thinkpad L560,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,2.3kg,9333043.2
+HP,EliteBook 840,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,1.54kg,8892000
+HP,EliteBook 850,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD +  500GB HDD,Intel HD Graphics 520,Windows,10,1.84kg,18702899.28
+HP,EliteBook 1040,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.43kg,13062348
+MSI,GT72S Dominator,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows,10,3.78kg,13743830.88
+Lenovo,IdeaPad Y900-17ISK,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows,10,4.6kg,20362591.08
+Asus,Chromebook C202SA,Netbook,"11.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Intel HD Graphics 400,Chrome OS,,1.2kg,2560006.8
+Lenovo,ThinkPad X1,Notebook,"14.0""",IPS Panel 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.1kg,23297040
+HP,Noteb Pav,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Nvidia GeForce 940MX,Windows,10,1.91kg,8705268
+Dell,Inspiron 5578,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.3kg,9727848
+HP,ProBook 450,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.04kg,8705268
+Dell,XPS 13,Ultrabook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16GB,1TB SSD,Intel HD Graphics 620,Windows,10,1.2kg,20042568
+HP,ProBook 650,Notebook,"15.6""",1366x768,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.31kg,6270193.8
+HP,250 G5,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,No OS,,1.96kg,4437108
+Acer,Aspire ES1-523,Notebook,"15.6""",1366x768,AMD A8-Series 7410 2.2GHz,8GB,1TB HDD,AMD Radeon R5,Windows,10,2.4kg,3992508
+Dell,Inspiron 7378,2 in 1 Convertible,"13.3""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.6kg,11550708
+MSI,GT62VR 6RD,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.94kg,16174548
+HP,ProBook 450,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.04kg,9514440
+Asus,Rog G752VL-GC088D,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,1TB HDD,Nvidia GeForce GTX 965M,No OS,,4kgs,8874216
+Dell,Inspiron 3567,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel HD Graphics,Windows,10,2.25kg,4970628
+Dell,Inspiron 5567,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,2TB HDD,AMD Radeon R7 M445,Windows,10,2.32kg,8802991.08
+MSI,GS63VR 6RF,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,1.8kg,17152668
+Dell,XPS 13,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.29kg,12964536
+Asus,ROG G701VO,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,64GB,1TB SSD,Nvidia GeForce GTX 980 ,Windows,10,3.58kg,35345700
+Dell,Inspiron 5368,2 in 1 Convertible,"13.3""",Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.62kg,7095904.92
+Dell,Alienware 15,Gaming,"15.6""",4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows,10,3.21kg,11817468
+Apple,"MacBook 12""",Ultrabook,"12.0""",IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8GB,256GB Flash Storage,Intel HD Graphics 515,Mac OS,X,0.920kg,11559600
+Dell,Latitude 3570,Notebook,"15.6""",1366x768,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.06kg,4285766.16
+HP,ProBook 650,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.31kg,10661508
+HP,EliteBook 820,Ultrabook,"12.5""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.26kg,10661508
+HP,ProBook 430,Notebook,"13.3""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.49kg,9692280
+Lenovo,ThinkPad Yoga,Ultrabook,"12.5""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.3kg,15236353.08
+Lenovo,IdeaPad 300-17ISK,Notebook,"17.3""",1600x900,Intel Core i5 6200U 2.3GHz,8GB,1TB HDD,AMD Radeon R5 M330,Windows,10,3.0kg,5859828
+Lenovo,Ideapad 700-15ISK,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,4GB,1TB HDD,Nvidia GeForce GTX 950M,Windows,10,2.3kg,8687484
+MSI,GT72VR Dominator,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows,10,3.78kg,22221108
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/W10),Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.1kg,4801680
+HP,Probook 650,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,7,2.31kg,8358480
+Lenovo,Yoga 900S-12ISK,Ultrabook,"12.5""",IPS Panel Touchscreen 2560x1440,Intel Core M 6Y75 1.2GHz,8GB,512GB SSD,Intel HD Graphics 515,Windows,10,0.99kg,12439908
+Lenovo,IdeaPad Y900-17ISK,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32GB,512GB SSD +  1TB Hybrid,Nvidia GeForce GTX 980M,Windows,10,4.6kg,28810080
+Lenovo,Yoga Book,2 in 1 Convertible,"10.1""",IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Intel HD Graphics 400,Windows,10,0.69kg,5746632.84
+HP,Spectre x360,Ultrabook,"13.3""",IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Windows,10,1.3kg,18219708
+Dell,Vostro 3568,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.18kg,6669000
+HP,EliteBook 840,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,7,1.54kg,9167563.08
+HP,ZBook 15u,Workstation,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,AMD FirePro W4190M,Windows,7,1.9kg,13293540
+Lenovo,ThinkPad T460,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1GB SSD,Intel HD Graphics 520,Windows,7,1.7kg,10661508
+HP,Chromebook 13,Notebook,"13.3""",Quad HD+ 3200x1800,Intel Pentium Dual Core 4405Y 1.5GHz,4GB,32GB Flash Storage,Intel HD Graphics 515,Chrome OS,,1.29kg,5468580
+Acer,Aspire ES1-523,Notebook,"15.6""",1366x768,AMD A8-Series 7410 2.2GHz,4GB,500GB HDD,AMD Radeon R5,Windows,10,2.4kg,3441204
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Pentium Quad Core N3700 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Linux,,2.2kg,3498913.08
+HP,250 G6,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Intel HD Graphics 520,No OS,,1.86kg,3076543.08
+Asus,Rog GL702VM-GC354T,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.7kg,14218308
+Dell,Inspiron 5370,Ultrabook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,AMD Radeon 530,Windows,10,1.4kg,7276768.2
+HP,Elitebook 820,Netbook,"12.5""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,7,2.4kg,14218308
+Acer,Aspire F5-573G,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 950M,Windows,10,2.4kg,7104708
+Dell,Inspiron 5567,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,AMD Radeon R7 M445,Windows,10,2.36kg,5680209.6
+MSI,GS70 Stealth,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Nvidia GeForce GTX 965M,Windows,10,2.6kg,14218308
+HP,250 G5,Notebook,"15.6""",1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Intel HD Graphics 405,Windows,10,1.96kg,4446000
+Asus,G752VY-GC162T (i7-6700HQ/16GB/1TB,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows,10,4.3kg,20442708
+Dell,Latitude E5270,Ultrabook,"12.5""",1366x768,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,7,1.5kg,10093753.8
+Dell,Latitude E5270,Ultrabook,"12.5""",1366x768,Intel Core i3 6100U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,7,1.5kg,10376697.24
+Acer,Chromebook 15,Notebook,"15.6""",1366x768,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16GB SSD,Intel HD Graphics,Chrome OS,,2.20kg,1858428
+HP,ZBook 17,Workstation,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,AMD FirePro W6150M,Windows,7,3.0kg,25777908
+Lenovo,Legion Y520-15IKBN,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.4kg,10661508
+Dell,Latitude E5270,Ultrabook,"12.5""",1366x768,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.5kg,12565285.2
+MSI,GE72 Apache,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.9kg,13437501.48
+Lenovo,Yoga 500-15ISK,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Intel HD Graphics 520,Windows,10,2.1kg,7709364
+HP,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),Notebook,"15.6""",Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4GB,1TB HDD,AMD Radeon R4,Windows,10,2.1kg,3539016
+Asus,Rog GL552VW-CN470T,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.59kg,11906388
+HP,EliteBook 1030,Notebook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core M 6Y54 1.1GHz,8GB,256GB SSD,Intel HD Graphics 515,Windows,10,1.16kg,15107508
+Dell,Vostro 3559,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,AMD Radeon R5 M315,Windows,7,2.24kg,6839281.8
+Lenovo,V110-15ISK (i3-6006U/4GB/128GB/W10),Notebook,"15.6""",1366x768,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,2.1kg,3814668
+HP,Spectre Pro,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.16kg,17508348
+Lenovo,Yoga Book,2 in 1 Convertible,"10.1""",IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Intel HD Graphics 400,Android,,0.69kg,4881708
+Dell,XPS 13,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i7 7560U 2.4GHz,8GB,256GB SSD,Intel Iris Plus Graphics 640,Windows,10,1.23kg,12262068
+Lenovo,IdeaPad Y900-17ISK,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,256GB SSD +  1TB Hybrid,Nvidia GeForce GTX 980M,Windows,10,4.6kg,24452911.08
+Razer,Blade Stealth,Ultrabook,"12.5""",Touchscreen / 4K Ultra HD 3840x2160,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.25kg,9149868
+Toshiba,Portege X30-D-10K,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Windows,10,1.05kg,19793592
+Asus,Rog GL752VW-T4308T,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,3.52kg,11670661.08
+Vero,V131 (X5-Z8350/4GB/32GB/FHD/W10),Notebook,"13.3""",Full HD 1920x1080,Intel Atom X5-Z8350 1.44GHz,4GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.35kg,1742832
+HP,Spectre Pro,Notebook,"13.3""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.16kg,15027480
+HP,EliteBook 1040,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.43kg,13453596
+Dell,Latitude E5570,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Linux,,2.09kg,4656117.96
+Asus,VivoBook Max,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Intel HD Graphics 620,Windows,10,2kg,3868020
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,14840748
+Lenovo,Yoga Book,2 in 1 Convertible,"10.1""",IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Intel HD Graphics 400,Windows,10,0.69kg,4259268
+HP,EliteBook 820,Ultrabook,"12.5""",1366x768,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.26kg,16850340
+Lenovo,Legion Y520-15IKBN,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS,,2.4kg,8794188
+HP,Omen -,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,3.35kg,10039068
+HP,15-bs078cl (i7-7500U/8GB/2TB/W10),Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,8GB,2TB HDD,Intel HD Graphics 620,Windows,10,2.04kg,5593068
+Lenovo,ThinkPad P40,2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,512GB SSD,Nvidia Quadro M500M,Windows,7,1.8kg,18231978.96
+Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Notebook,"14.0""",1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Intel HD Graphics 500,Windows,10,1.5kg,2471976
+HP,250 G6,Ultrabook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.84kg,6686784
+Acer,Aspire E5-576G,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Nvidia GeForce 940MX,Windows,10,2.23kg,5477472
+Lenovo,IdeaPad 500-15ISK,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,1TB Hybrid,AMD Radeon R7 M360,Windows,10,2.5kg,9772308
+HP,ZBook 17,Workstation,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Nvidia Quadro M3000M,Windows,7,3kg,35118064.8
+Dell,Inspiron 5567,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,AMD Radeon R7 M445,Windows,10,2.5kg,6971328
+MSI,GT72S Dominator,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows,10,3.78kg,21331908
+HP,EliteBook 850,Ultrabook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.88kg,19310934.24
+Lenovo,ThinkPad X1,2 in 1 Convertible,"14.0""",IPS Panel Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,512GB SSD,Intel HD Graphics 520,Windows,10,2.8kg,21696480
+MSI,GP62M 7RDX,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.4kg,10161777.6
+HP,Spectre Pro,2 in 1 Convertible,"13.3""",Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.48kg,14485068
+HP,ZBook 15,Workstation,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Nvidia Quadro M1000M,Windows,7,2.59kg,19820268
+HP,Spectre Pro,2 in 1 Convertible,"13.3""",Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.48kg,15996708
+HP,ZBook Studio,Workstation,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Nvidia Quadro M1000M,Windows,7,2.0kg,16885908
+HP,EliteBook 820,Ultrabook,"12.5""",Full HD 1920x1080,Intel Core i7 6500U 2.50GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.26kg,20424479.4
+Dell,Vostro 5568,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce 940MX,Windows,10,2.18kg,8980030.8
+HP,EliteBook 850,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.88kg,14040468
+Lenovo,ThinkPad X1,2 in 1 Convertible,"14.0""",IPS Panel Touchscreen 2560x1440,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.27kg,20798388
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Intel HD Graphics 520,No OS,,1.9kg,3014388
+HP,15-BA015wm (E2-7110/4GB/500GB/W10),Notebook,"15.6""",1366x768,AMD E-Series 7110 1.8GHz,4GB,500GB HDD,AMD Radeon R2 Graphics,Windows,10,1.86kg,2640924
+Lenovo,B51-80 (i5-6200U/8GB/1TB/Radeon,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1TB HDD,AMD Radeon R5 M330,No OS,,2.32kg,5326308
+Dell,Inspiron 7567,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050Ti,Windows,10,2.62kg,10661508
+Dell,XPS 15,Notebook,"15.6""",IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel Core i5 6300HQ 2.3GHz,8GB,256GB SSD,Nvidia GeForce 960M,Windows,10,2.04kg,20013046.56
+HP,15-bw002nv (A6-9220/4GB/256GB/Radeon,Notebook,"15.6""",Full HD 1920x1080,AMD A6-Series A6-9220 2.5GHz,4GB,256GB SSD,AMD Radeon 520,Windows,10,1.91kg,4258289.88
+MSI,GP72M 7REX,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.7kg,13273977.6
+Lenovo,ThinkPad T460s,Ultrabook,"14.0""",Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,12GB,512GB SSD,Intel HD Graphics 520,Windows,7,1.4kg,20442708
+Lenovo,B51-80 (i5-6200U/8GB/1008GB/Radeon,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1TB Hybrid,AMD Radeon R5 M330,Windows,10,2.5kg,7011253.08
+HP,Spectre Pro,2 in 1 Convertible,"13.3""",Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.48kg,18148572
+Lenovo,ThinkPad T460,Ultrabook,"14.0""",Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.7kg,13329108
+MSI,GS40 Phantom,Gaming,"14.0""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows,10,1.7kg,15729948
+HP,Pavilion 15-cb003nv,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.62kg,7993908
+Lenovo,IdeaPad 310-15ISK,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Intel HD Graphics 520,Windows,10,2.2kg,4081428
+HP,250 G4,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,No OS,,2.1kg,4241395.08
+Dell,Inspiron 7567,Gaming,"15.6""",4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.62kg,13320216
+Lenovo,ThinkPad T570,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.95kg,12359880
+Lenovo,320-15ISK (i3-6006U/4GB/1TB/GeForce,Notebook,"15.6""",Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Nvidia GeForce 920MX ,Windows,10,2.2kg,4161456
+HP,Stream 14-AX000nv,Notebook,"14.0""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.44kg,2214108
+MSI,PL60 7RD,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.2kg,7460388
+HP,250 G5,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.96kg,6037668
+HP,ProBook 450,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Intel UHD Graphics 620,Windows,10,2.1kg,10305828
+Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Windows,10,2.2kg,3281148
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,No OS,,2.1kg,3539016
+Lenovo,IdeaPad 510-15IKB,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Nvidia GeForce 940MX,No OS,,2.2kg,6304428
+Asus,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Notebook,"14.0""",Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows,10,2kg,6837948
+Lenovo,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,1TB Hybrid,Intel HD Graphics 520,Windows,7,2.32kg,7335900
+Lenovo,IdeaPad Y700-15ISK,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD,Nvidia GeForce GTX 960,Windows,10,3.31kg,11604060
+MSI,GS60 Ghost,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows,10,1.91kg,19147766.04
+HP,ProBook 450,Notebook,"15.6""",1366x768,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.07kg,5779800
+Lenovo,ThinkPad X1,2 in 1 Convertible,"14.0""",IPS Panel Touchscreen 2560x1440,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.36kg,14556204
+Lenovo,IdeaPad 310-15IKB,Ultrabook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,6GB,256GB SSD,Nvidia GeForce 920M,Windows,10,1.54kg,7389252
+Dell,Vostro 5568,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce GT 940MX,Linux,,1.98kg,7958428.92
+Acer,Aspire 3,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3350 2GHz,4GB,500GB HDD,Intel HD Graphics 500,Windows,10,2.1kg,2961036
+HP,Pavilion 15-BC000nv,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,6GB,1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.18kg,7104708
+Asus,Rog GL552VW-DM201T,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.591kg,8082828
+Dell,Inspiron 5578,2 in 1 Convertible,"15.6""",Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Windows,10,2.09kg,10483668
+Acer,Aspire E5-576G,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Nvidia GeForce 940MX,Windows,10,2.23kg,6144372
+Dell,XPS 13,Ultrabook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Linux,,1.23kg,9772308
+Acer,Predator G9-793,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows,10,4.2kg,23110308
+Lenovo,Legion Y520-15IKBN,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.4kg,7282548
+Samsung,Chromebook Plus,2 in 1 Convertible,"12.3""",IPS Panel Touchscreen 2400x1600,Samsung Cortex A72&A53 2.0GHz,4GB,32GB Flash Storage,ARM Mali T860 MP4,Chrome OS,,1.15kg,5859828
+HP,250 G6,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.86kg,4312620
+Apple,"MacBook 12""",Ultrabook,"12.0""",IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8GB,256GB Flash Storage,Intel HD Graphics 5300,Mac OS,X,0.920kg,10341396
+Dell,Inspiron 7378,2 in 1 Convertible,"13.3""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.6kg,10661508
+HP,Pavilion Power,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.21kg,11799684
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2GHz,4GB,1TB HDD,AMD Radeon R5 M430,No OS,,1.9kg,3272256
+Asus,Rog G752VY-GC229T,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows,10,4.3kg,19117800
+Acer,Aspire 3,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3350 2GHz,4GB,1TB HDD,Intel HD Graphics 500,Linux,,2.1kg,2418624
+MSI,GS73VR 7RF,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.43kg,18218818.8
+Dell,Inspiron 5567,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,AMD Radeon R7 M440,Windows,10,2.3kg,4437108
+Lenovo,IdeaPad 310-15ISK,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,8GB,500GB HDD,Nvidia GeForce 920MX,No OS,,2.2kg,5593068
+Dell,Inspiron 5579,2 in 1 Convertible,"15.6""",Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Intel UHD Graphics 620,Windows,10,2kg,11426220
+Dell,XPS 13,Ultrabook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Windows,10,1.2kg,23830560
+Asus,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.2kg,10394748
+Dell,Inspiron 5567,Notebook,"15.6""",Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,AMD Radeon R7 M445,Windows,10,2.36kg,7904988
+HP,15-bs025nv (i5-7200U/8GB/256GB/W10),Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.91kg,5148468
+Lenovo,IdeaPad 320-15AST,Notebook,"15.6""",1366x768,AMD E-Series 9000 2.2GHz,4GB,500GB HDD,AMD Radeon R2 Graphics,Windows,10,2.2kg,2658708
+Acer,Aspire E5-774G,Notebook,"17.3""",1600x900,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Nvidia GeForce 940MX,Windows,10,3.3kg,5593068
+Asus,Rog Strix,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows,10,2.2kg,21776508
+Apple,"MacBook 12""",Ultrabook,"12.0""",IPS Panel Retina Display 2304x1440,Intel Core M 1.2GHz,8GB,512GB Flash Storage,Intel HD Graphics 515,Mac OS,X,0.920kg,11372868
+Asus,FX502VM-AS73 (i7-7700HQ/16GB/1TB,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.2kg,15552108
+MSI,GS73VR Stealth,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.43kg,17330419.08
+Dell,Inspiron 7579,2 in 1 Convertible,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,2.191kg,8883108
+Asus,ROG Strix,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.9kg,17330508
+Acer,C740-C9QX (3205U/2GB/32GB/Chrome,Netbook,"11.6""",1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2GB,32GB SSD,Intel HD Graphics,Chrome OS,,1.3kg,1547208
+Acer,E5 774G,Notebook,"17.3""",1600x900,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Nvidia GeForce 940MX,Windows,10,3.3kg,5317416
+Lenovo,IdeaPad 320-17IKB,Notebook,"17.3""",1600x900,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel HD Graphics 620,No OS,,2.8kg,4792788
+Lenovo,IdeaPad Y700-15ISK,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960<U+039C>,Windows,10,2.6kg,11310624
+Acer,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7Y75 1.3GHz,8GB,256GB SSD,Intel HD Graphics 615,Windows,10,1.2kg,10216908
+Lenovo,Thinkpad T560,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,2.3kg,13595868
+MSI,GP62MVR 6RF,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.2kg,13125570.12
+HP,15-bw009nv (A12-9720P/6GB/1TB/Radeon,Notebook,"15.6""",Full HD 1920x1080,AMD A12-Series 9720P 2.7GHz,6GB,1TB HDD,AMD Radeon 530,Windows,10,2.1kg,4703868
+Dell,Latitude E7270,Ultrabook,"12.5""",Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.26kg,15235286.04
+Dell,Inspiron 5578,2 in 1 Convertible,"15.0""",Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,2.08kg,4526028
+Asus,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Notebook,"15.6""",1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Intel HD Graphics 405,Windows,10,2.65kg,2747628
+Dell,XPS 13,Ultrabook,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Windows,10,1.29kg,13133484
+Dell,Vostro 3568,Notebook,"15.6""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel HD Graphics 520,Linux,,2.18kg,4640379.12
+Lenovo,IdeaPad Y700-15ISK,Gaming,"15.6""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.6kg,9149868
+MSI,GL62M 7RDX,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows,10,2.2kg,10216908
+Lenovo,ThinkPad Yoga,Netbook,"12.5""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.50GHz,16GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.3kg,14671800
+Razer,Blade Pro,Gaming,"14.0""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,1TB SSD,Nvidia GeForce GTX 1060,Windows,10,1.95kg,31113108
+Dell,Inspiron 3567,Notebook,"15.6""",Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.3kg,4170436.92
+MSI,GE72VR Apache,Gaming,"17.3""",Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows,10,2.7kg,14209416
+Apple,MacBook Air,Ultrabook,"11.6""",1366x768,Intel Core i5 1.6GHz,4GB,256GB Flash Storage,Intel HD Graphics 6000,Mac OS,X,1.08kg,8527428
+HP,15-bs023nv (i3-6006U/4GB/1TB/FHD/W10),Notebook,"15.6""",Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Intel HD Graphics 520,Windows,10,2.1kg,4250376
+HP,EliteBook 840,Ultrabook,"14.0""",2560x1440,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.54kg,19546305.48
+Dell,Vostro 3559,Notebook,"15.6""",1366x768,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,7,2.24kg,6553404
+MSI,GL62 6QF,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.3kg,10394748
+Lenovo,ThinkPad 13,Notebook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Windows,10,1.4kg,13329108
+Lenovo,IdeaPad 320-15ABR,Notebook,"15.6""",Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6GB,256GB SSD,AMD Radeon 530,Windows,10,2.2kg,5313592.44
+Asus,ZenBook UX310UA-WB71,Ultrabook,"13.3""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.45kg,11381760
+Acer,Aspire ES1-572,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2.0GHz,4GB,500GB HDD,Intel HD Graphics 520,Linux,,2.4kg,3217125.6
+Dell,Inspiron 7779,2 in 1 Convertible,"17.3""",Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Nvidia GeForce 940MX,Windows,10,2.77kg,15996708
+HP,EliteBook 840,Notebook,"14.0""",Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Intel HD Graphics 520,Windows,7,1.54kg,9781111.08
+Asus,Rog GL553VE-FY052T,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows,10,2.5kg,14227200
+Dell,Latitude 5480,Notebook,"14.0""",1366x768,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows,10,1.6kg,7780500
+Asus,Rog GL502VS,Gaming,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows,10,2.34kg,20673900
+Lenovo,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,No OS,,2.3kg,5095116
+Dell,XPS 13,2 in 1 Convertible,"13.3""",Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7Y54 1.2GHz,8GB,256GB SSD,Intel HD Graphics 615,Windows,10,1.24kg,16121196
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Linux,,2.2kg,2881008
+HP,255 G6,Notebook,"15.6""",1366x768,AMD A6-Series 9220 2.5GHz,4GB,500GB HDD,AMD Radeon R4 Graphics,Windows,10,1.86kg,3547908
+Lenovo,IdeaPad 310-15ISK,Notebook,"15.6""",Full HD 1920x1080,Intel Core i3 6100U 2.3GHz,6GB,128GB SSD,Nvidia GeForce 920MX,Windows,10,2.4kg,5059548
+Lenovo,ThinkPad L460,Notebook,"14.0""",IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Windows,10,1.9kg,9532224
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Pentium Quad Core N3700 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Windows,10,2.2kg,3947959.08
+Asus,X541NA-GO020T (N3350/4GB/1TB/W10),Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Intel HD Graphics 500,Windows,10,2kg,3014388
+Asus,Rog G752VT-GC073T,Gaming,"17.3""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows,10,4.0kg,16894800
+Dell,Vostro 3568,Notebook,"15.6""",1366x768,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,Windows,10,2.29kg,4357080
+Lenovo,B51-80 (i7-6500U/8GB/1008GB/Radeon,Notebook,"15.6""",Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,1TB Hybrid,AMD Radeon R5 M330,Windows,7,2.32kg,7958340
+MSI,GE62 Apache,Gaming,"15.6""",Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.4kg,10928268
+Lenovo,Yoga 500-14IBD,2 in 1 Convertible,"14.0""",Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,7407124.92
+Asus,ZenBook UX305CA-UBM1,Ultrabook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512GB SSD,Intel HD Graphics 515,Windows,10,1.2kg,6482268
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.3kg,4081428
+Acer,Aspire ES1-531,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Intel HD Graphics 400,Linux,,2.4kg,2569788
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500GB HDD,Intel HD Graphics,Windows,10,2.20kg,3370068
+Lenovo,IdeaPad Y700-15ISK,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.6kg,7993908
+HP,Pavilion 15-AW003nv,Notebook,"15.6""",Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1TB Hybrid,AMD Radeon R7 M440,Windows,10,2.04kg,4890511.08
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,AMD Radeon R5 M430,Linux,,2.3kg,7166863.08
+HP,Stream 11-Y000na,Netbook,"11.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.17kg,1858428
+Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,4GB,500GB HDD,Nvidia GeForce 920M,Windows,10,2.2kg,6405085.44
+Lenovo,Yoga 500-14ISK,2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,5673096
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,"13.3""",IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.3kg,13329108
+Lenovo,IdeaPad 100S-14IBR,Notebook,"14.0""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64GB Flash Storage,Intel HD Graphics,Windows,10,1.5kg,2036268
+HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,6GB,1TB HDD,AMD Radeon R5 M330,Windows,10,2.19kg,6793488
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Windows,10,2.2kg,3281148
+Asus,ZenBook UX305CA-UBM1,Ultrabook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512GB SSD,Intel HD Graphics 515,Windows,10,1.2kg,6482268
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.3kg,4081428
+Acer,Aspire ES1-531,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Intel HD Graphics 400,Linux,,2.4kg,2569788
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500GB HDD,Intel HD Graphics,Windows,10,2.20kg,3370068
+Lenovo,IdeaPad Y700-15ISK,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.6kg,7993908
+HP,Pavilion 15-AW003nv,Notebook,"15.6""",Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1TB Hybrid,AMD Radeon R7 M440,Windows,10,2.04kg,4890511.08
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,AMD Radeon R5 M430,Linux,,2.3kg,7166863.08
+HP,Stream 11-Y000na,Netbook,"11.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.17kg,1858428
+Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,4GB,500GB HDD,Nvidia GeForce 920M,Windows,10,2.2kg,6405085.44
+Lenovo,Yoga 500-14ISK,2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,5673096
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,"13.3""",IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.3kg,13329108
+Lenovo,IdeaPad 100S-14IBR,Notebook,"14.0""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64GB Flash Storage,Intel HD Graphics,Windows,10,1.5kg,2036268
+HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,6GB,1TB HDD,AMD Radeon R5 M330,Windows,10,2.19kg,6793488
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Windows,10,2.2kg,3281148
+Asus,ZenBook UX305CA-UBM1,Ultrabook,"13.3""",IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512GB SSD,Intel HD Graphics 515,Windows,10,1.2kg,6482268
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Intel HD Graphics 620,Windows,10,2.3kg,4081428
+Acer,Aspire ES1-531,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Intel HD Graphics 400,Linux,,2.4kg,2569788
+Dell,Inspiron 3552,Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500GB HDD,Intel HD Graphics,Windows,10,2.20kg,3370068
+Lenovo,IdeaPad Y700-15ISK,Notebook,"15.6""",IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 960M,Windows,10,2.6kg,7993908
+HP,Pavilion 15-AW003nv,Notebook,"15.6""",Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1TB Hybrid,AMD Radeon R7 M440,Windows,10,2.04kg,4890511.08
+Dell,Inspiron 3567,Notebook,"15.6""",1366x768,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,AMD Radeon R5 M430,Linux,,2.3kg,7166863.08
+HP,Stream 11-Y000na,Netbook,"11.6""",1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Windows,10,1.17kg,1858428
+Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,4GB,500GB HDD,Nvidia GeForce 920M,Windows,10,2.2kg,6405085.44
+Lenovo,Yoga 500-14ISK,2 in 1 Convertible,"14.0""",IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 520,Windows,10,1.8kg,5673096
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,"13.3""",IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Intel HD Graphics 520,Windows,10,1.3kg,13329108
+Lenovo,IdeaPad 100S-14IBR,Notebook,"14.0""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64GB Flash Storage,Intel HD Graphics,Windows,10,1.5kg,2036268
+HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,"15.6""",1366x768,Intel Core i7 6500U 2.5GHz,6GB,1TB HDD,AMD Radeon R5 M330,Windows,10,2.19kg,6793488
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,"15.6""",1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Windows,10,2.2kg,3281148
