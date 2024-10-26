@@ -1,0 +1,6 @@
+import pandas as pd
+
+def game_analysis(activity: pd.DataFrame) -> pd.DataFrame:
+    results = activity.groupby('player_id').agg({'event_date': 'min'}).reset_index()
+    results.columns = ['player_id', 'first_login']
+    return results
